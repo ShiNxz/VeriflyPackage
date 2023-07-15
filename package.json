@@ -1,6 +1,6 @@
 {
 	"name": "verifly-js",
-	"version": "1.2.5",
+	"version": "1.2.6",
 	"description": "A Node.js wrapper for Verifly integration.",
 	"main": "dist/index.mjs",
 	"module": "dist/index.esm",
